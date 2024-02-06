@@ -21,6 +21,7 @@ With nearly 22 years of experience in diverse domains such as Banking, Healthcar
 - Stakeholder and Relationship Management
 - Governance and Key listener
 - Account planning
+- Business case planning
 - Adaptability
 - Leadership skills and Business Acumen
 - Customer Engagement
@@ -30,7 +31,7 @@ With nearly 22 years of experience in diverse domains such as Banking, Healthcar
 1. **Sr Sales Director - Ensured HCL as a key strategic partner for DigiTech platform (2022-2023)**
    - Played a pivotal role in establishing HCL as a strategic partner for the DigiTech platform with an extension of 32mn per year.
    - Strengthened relationships with key stakeholders to ensure HCL’s continued involvement and contribution as a strategic partner in the platform with a seat at the leadership table.
-   - Entering new logos, I implemented a new governance operating model, securing HCL's position on the panel.  
+   - Entering new logos (hunting), I implemented a new governance operating model, securing HCL's position on the panel.  
 
 2. **Sr Sales Director - HCL Foray into new Platforms (Collaboration with Corporate Services Strategy team)**
    - Established a highly skilled Abintio squad worth 100k within a shorter timeframe.
@@ -118,7 +119,7 @@ Flexible salary expectations; can be discussed based on the role and its respons
 
 **Availability**
 
-Notice period of four weeks.
+Notice period of four weeks. Willing to relocate within AU.
 
 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/murugabharathy)
 
