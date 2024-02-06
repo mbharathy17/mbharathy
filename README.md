@@ -2,7 +2,7 @@
 
 ## Career Summary
 
-With nearly 22 years of experience in diverse domains such as Banking, Healthcare, and Logistics, I have excelled in various roles, including Technical Lead, Head of Delivery, Chapter Lead, Business Consultant, Account Manager, Client Partner, and Business Development. My career journey showcases:
+With nearly 22 years of experience in diverse domains such as Banking, Healthcare, and Logistics, I have excelled in various roles, including Technical Lead, Head of Delivery, Business Consultant, Account Manager, Client Partner, and Business Development. My career journey showcases:
 
 - Transition from a Tech Architect to a dynamic business opportunities hunter.
 - Proficiency in managing teams of varying sizes, including leading teams of over 300 members across different continents.
@@ -20,6 +20,7 @@ With nearly 22 years of experience in diverse domains such as Banking, Healthcar
 - Digital Transformation Initiatives
 - Stakeholder and Relationship Management
 - Governance and Key listener
+- Account planning
 - Adaptability
 - Leadership skills and Business Acumen
 - Customer Engagement
@@ -29,12 +30,14 @@ With nearly 22 years of experience in diverse domains such as Banking, Healthcar
 1. **Sr Sales Director - Ensured HCL as a key strategic partner for DigiTech platform (2022-2023)**
    - Played a pivotal role in establishing HCL as a strategic partner for the DigiTech platform with an extension of 32mn per year.
    - Strengthened relationships with key stakeholders to ensure HCL’s continued involvement and contribution as a strategic partner in the platform with a seat at the leadership table.
+   - Entering new logos, I implemented a new governance operating model, securing HCL's position on the panel.  
 
 2. **Sr Sales Director - HCL Foray into new Platforms (Collaboration with Corporate Services Strategy team)**
-   - Established a highly skilled Abintio squad within a shorter timeframe.
+   - Established a highly skilled Abintio squad worth 100k within a shorter timeframe.
    - Identified opportunities for ServiceNow Integration and HR Apps Transformation.
    - Cultivated relationships with crucial COO stakeholders.
-   - Facilitated the expansion of the Operations team into new areas of Retail Banking operations
+   - Facilitated the expansion of the Operations team into new areas of Retail Banking operations. Secured 
+     opportunities worth $250k every 6 months, with potential for further growth.
   
 3. **Head of Apps and Innovation - Finance Apps Deal with DXC (2020-2021)**
    - Successfully led and secured the RFP deal with DXC for the consolidation of finance applications, including end-to-end managed services, upgrades, and cloud transformation.
@@ -63,57 +66,57 @@ With nearly 22 years of experience in diverse domains such as Banking, Healthcar
     - Designed an employee satisfaction program with a focus on increasing individual productivity and team commitment.
     - Resulted in a potential productivity uplift of up to 25%.
 
-# A bit about myself and why would I fit in the Enterprise AE role.
+# A bit about myself and why would I fit in to the role.
 
-## Strategic Account planning
+**Strategic Account planning**
 
 In my professional journey, I've specialized in strategic account planning, consistently exceeding targets on ongoing accounts. Notably, I've propelled growth from 7 million to 40 million on an annuity basis. Currently in an Individual Contributor (IC) role, my focus is on hunting new logos and expanding opportunities, aligning with organizational growth strategies.
 
-## Risk Management
+**Risk Management**
 
-As the former Head of CaaS overseeing a critical platform, I meticulously managed risk. The platform, with 19 million active cards, maintained resilience and compliance controls, undergoing regular audits by PwC, internal audits, and customer audits. My role included ensuring PCI external certification annually, addressing and mitigating around 300 audit-related risks. I developed a comprehensive risk framework, enhancing compliance and security.
+As the former Head of CaaS overseeing a critical platform, I meticulously managed risk. The platform, with 19 million active cards, maintained resilience and compliance controls, undergoing regular audits by PwC/EY, internal audits, and customer audits. My role included ensuring PCI external certification annually, addressing and mitigating around 300 audit-related risks. I developed a comprehensive risk framework, enhancing compliance and security.
 
-## Networking
+**Networking**
 
 Networking is a fundamental strength that evolved throughout my career. From technical roles to the current position, I've excelled in building professional relationships with key stakeholders, instrumental in establishing trust and credibility. Leveraging my network, I've secured partnerships and references, contributing significantly to organizational growth.
 
-## Customer Service Recognition
+**Customer Service Recognition**
 
 Recipient of the "Leading Lights on Customer Service" award at 2018 from the customer in my previous engagement, reflecting my commitment to exceptional customer service.
 
-## Sales Focus
+**Sales Focus**
 
 Primarily engaged in selling software services and solutions, constituting 90% of recent sales activities, with the remaining 10% involving homegrown products or partner channel sales.
 
-## Industry Focus
+**Industry Focus**
 
-Recent sales focus within the BFSI sector, specifically targeting Financial Institutions.
+Focus on sales within the BFSI sector, particularly aimed at Financial Institutions. Implemented a flexible platform architecture incorporating LIXI and BIAN frameworks. Collaborated with hyperscalers to establish various operating models based on customer requirements. Instituted regular governance models involving different stakeholders. Conducted routine customer satisfaction surveys. Organized semi-annual Customer Advisory Board meetings, including roundtable discussions with internal senior executives. Held regular industry meetups and breakfast sessions with thought leaders in the field.
 
-## Latest Target Achievement
+**Latest Target Achievement**
 
-With a target of 97%, my latest achievement stands at 96.8%.
+With a target of 97%, my latest achievement stands at 96.8% (2022-2023).
 
-## Sales Methodology
+**Sales Methodology**
 
 Trained in Solution Selling and SPIN Selling methodologies, applying them in my current sales approach.
 
-## Leadership Style
+**Leadership Style**
 
 My leadership style centers on engagement, active listening, and providing mentorship to the team.
 
-## Career Aspirations
+**Career Aspirations**
 
 In a new role, I aim to contribute to my career growth while making substantial contributions to the company's growth.
 
-## Reason for Seeking a New Role
+**Reason for Seeking a New Role**
 
 Seeking a change for fresh challenges, allowing me to apply my skills and expertise in a new environment.
 
-## Salary Expectations
+**Salary Expectations**
 
 Flexible salary expectations; can be discussed based on the role and its responsibilities.
 
-## Availability
+**Availability**
 
 Notice period of four weeks.
 
