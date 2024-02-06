@@ -93,6 +93,14 @@ Primarily engaged in selling software services and solutions, constituting 90% o
 
 Focus on sales within the BFSI sector, particularly aimed at Financial Institutions. Implemented a flexible platform architecture incorporating LIXI and BIAN frameworks. Collaborated with hyperscalers to establish various operating models based on customer requirements. Instituted regular governance models involving different stakeholders. Conducted routine customer satisfaction surveys. Organized semi-annual Customer Advisory Board meetings, including roundtable discussions with internal senior executives. Held regular industry meetups and breakfast sessions with thought leaders in the field.
 
+**Budget Management**
+
+Demonstrated proficiency in managing multimillion-dollar budgets, ensuring optimal resource allocation and cost-effectiveness.
+
+**Innovative Solutions**
+
+Implemented state-of-the-art technologies and industry best practices to enhance operational excellence and remain at the forefront of industry advancements. Cultivated collaborations with Fintech companies to develop proof of concepts and transition them into production.
+
 **Latest Target Achievement**
 
 With a target of 97%, my latest achievement stands at 96.8% (2022-2023).
