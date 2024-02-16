@@ -31,14 +31,15 @@ With nearly 22 years of experience in diverse domains such as Banking, Healthcar
 1. **Sr Sales Director - Ensured HCL as a key strategic partner for DigiTech platform (2022-2023)**
    - Played a pivotal role in establishing HCL as a strategic partner for the DigiTech platform with an extension of 32mn per year.
    - Strengthened relationships with key stakeholders to ensure HCL’s continued involvement and contribution as a strategic partner in the platform with a seat at the leadership table.
-   - Entering new logos (hunting), I implemented a new governance operating model, securing HCL's position on the panel.  
-
+   - Entering new logos (hunting), I implemented a new governance operating model, securing HCL's position on the panel.
+   - Sales support include Solution Design,Presentations,Tech Expertise,Sales support ,Proposal development,Cross-functional Colloboration,RFI/RFP participations in the region for new logos. Key contributor in business plans, portfolio design and pipeline definition for sale.
+  
 2. **Sr Sales Director - HCL Foray into new Platforms (Collaboration with Corporate Services Strategy team)**
-   - Established a highly skilled Abintio squad worth 100k within a shorter timeframe.
+   - Collaborated with the Corporate Services Strategy team to establish a highly skilled Ab-intio squad within a shorter timeframe, Established an agile squad for ServiceNow Integration and HR Apps Transformation. Potential expansion to 30 member team.
    - Identified opportunities for ServiceNow Integration and HR Apps Transformation.
    - Cultivated relationships with crucial COO stakeholders.
-   - Facilitated the expansion of the Operations team into new areas of Retail Banking operations. Secured 
-     opportunities worth $250k every 6 months, with potential for further growth.
+   - Facilitated the expansion of the Operations team into new areas of Retail Banking operations, such as certifications, credit card validations and payments. Established an enabled a 15 member 
+     team on time for managing high peak capacity.
   
 3. **Head of Apps and Innovation - Finance Apps Deal with DXC (2020-2021)**
    - Successfully led and secured the RFP deal with DXC for the consolidation of finance applications, including end-to-end managed services, upgrades, and cloud transformation.
