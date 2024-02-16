@@ -38,8 +38,8 @@ With nearly 22 years of experience in diverse domains such as Banking, Healthcar
    - Collaborated with the Corporate Services Strategy team to establish a highly skilled Ab-intio squad within a shorter timeframe, Established an agile squad for ServiceNow Integration and HR Apps Transformation. Potential expansion to 30 member team.
    - Identified opportunities for ServiceNow Integration and HR Apps Transformation.
    - Cultivated relationships with crucial COO stakeholders.
-   - Facilitated the expansion of the Operations team into new areas of Retail Banking operations, such as certifications, credit card validations and payments. Established an enabled a 15 member 
-     team on time for managing high peak capacity.
+   - Facilitated the expansion of the Operations team into new areas of Retail Banking operations, such as certifications, credit card validations and payments. Established and enabled a 15 member 
+     team on time for managing high peak capacity.Potential expansion to 1mn contract.
   
 3. **Head of Apps and Innovation - Finance Apps Deal with DXC (2020-2021)**
    - Successfully led and secured the RFP deal with DXC for the consolidation of finance applications, including end-to-end managed services, upgrades, and cloud transformation.
